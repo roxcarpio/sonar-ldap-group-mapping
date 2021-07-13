@@ -1,0 +1,1 @@
+# sonar-ldap-group-mapping
